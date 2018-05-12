@@ -1,0 +1,30 @@
+_repo: Under-the-Mendips--A-Tale_33257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33257-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marshall, Emma
+    alias: Marshall, Emma Martin
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '28350'
+    url: http://www.gutenberg.org/2009/agents/28350
+description: ''
+gutenberg_issued: '2010-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wells (England) -- Fiction'
+- !lcsh 'Riots -- England -- Bristol -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Country life -- England -- Fiction'
+- !lcsh 'Families -- Fiction'
+title: 'Under the Mendips: A Tale'
+url: http://www.gutenberg.org/ebooks/33257
